@@ -4,6 +4,7 @@
 This project analyzes employee attrition using SQL queries on the HR Employee Attrition dataset.
 
 ## 📂 Project Structure
+```
 /EmployeeAttritionSQL/
 ├── data/
 │ └── HR_Employee_Attrition.csv
@@ -17,6 +18,7 @@ This project analyzes employee attrition using SQL queries on the HR Employee At
 ├── screenshots/
 │ └── sample_output.png (optional)
 ├── README.md
+```
 
 
 
